@@ -100,7 +100,11 @@ Most people and creatures have a regular metabolism. Characters with "no metabol
 > _Generally, a creature that has no metabolism cannot be healed by typical means, but will have an alternate method of being healed. For instance, a Fire Elemental would be immune to standard healing effects, but could be healed by Flame._ 
 
 ### Undead Metabolism
-Creatures with Undead Metabolism follow the same rules as "No Metabolism," with the excpetions that they are affected by Heal Wounds (and other standard healing effects) normally, as well as being affected by effects and abilities that specifically target undead (such as Harm Undead).
+- **Crumble at 0 Body** _(When the character reaches 0 or fewer Body Points, they immediately dissipate and seek resurrection.)_
+- Immune to Toxin
+- Immune to Berserk, Command: Confuse, Death, Boon of Nature, Drain, First Aid, Hearthstone, Infect, Life, Revive, Revivify, Sleep, Stun, Waylay
+
+- Creatures with Undead Metabolism follow the same rules as "No Metabolism," with the exceptions that they are affected by Heal Wounds (and other standard healing effects) normally, as well as being affected by effects and abilities that specifically target undead (such as Harm Undead).
 
 ## Spirit Bottle
 A character with a Spirit Bottle has stored their spirit for safe keeping in an item. Doing so protects the character from incurring Strain, however, it causes the character's body to become brittle. All characters with a Spirit Bottle must crumble at 0 body, and unless otherwise specified, have No Metabolism.
